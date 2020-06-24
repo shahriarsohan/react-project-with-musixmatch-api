@@ -1,0 +1,10 @@
+@import "./bootstrap.min.css";
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@1,700&display=swap");
+
+.nav-item {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.nav-link {
+  color: red;
+}
